@@ -1,16 +1,16 @@
 {
     "platform": "Playstation",
-    "account": {
-      "deviceID": "",
+    "account": {ChRoNiC_KiLlA_Z
+      "deviceID": "PS4-919",
       "accountID": "",
       "secret": ""
     },
     "cosmetics": {
-      "skin": "Skull Trooper",
-      "backpack": "",
-      "emote": "Floss",
+      "skin": "Chaos Agent",
+      "backpack": "Dusk Wings",
+      "emote": "Orange Justice",
       "emoji": "",
-      "pickaxe": "",
+      "pickaxe": "Reaper",
       "pet": ""
     },
     "cosmetics_variants": {
@@ -19,5 +19,5 @@
       "pickaxe": [],
       "pet": []
     },
-    "owners": ["LupusLeaks YT"]
+    "owners": ["IceBearChRoNiC"]
   }
